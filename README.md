@@ -1,11 +1,10 @@
 #  Secure Login
 
-![GitHub top language](https://img.shields.io/github/languages/top/Micheleregina2022/cybersecurityProject?color=pink&label=PYTHON&logo=python&logoColor=%23cb567c)
+![GitHub top language](https://img.shields.io/github/languages/top/joshuas0306/Secure-Login-System?color=pink&label=PYTHON&logo=python&logoColor=%23cb567c)
 
-# About project 
+# About project
 
-This project consists of a secure login system developed in Python. So far, the basic structure of registration and name and password verification has been developed. The first security mechanism consists of encrypting passwords using _bcrypt_, a data encryption library.
-Then two-factor authentication (2FA) was implemented.
+This project is a secure login system developed in Python by me. It includes user registration, password hashing with _bcrypt_, and two-factor authentication (2FA) using Twilio.
 
 
 ## Examples
@@ -65,7 +64,7 @@ Also, install Pipenv if you don't already have it by running the following comma
 
 1. Clone the repository:
 
-    *git clone: https://github.com/Micheleregina2022/cybersecurityProject.git*
+    *git clone: https://github.com/joshuas0306/Secure-Login-System.git*
 
 
 2. Navigate to the project directory:
@@ -132,8 +131,7 @@ Based on the verification, you will receive a message indicating whether access 
 
 
 # Author
-Michele Regina Bora <br/>
-https://www.linkedin.com/in/michele-regina-bora/
+Developed by me.
 
 
 
